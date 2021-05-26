@@ -1,0 +1,14 @@
+name: ann
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - python=3.8
+  - pandas
+  - matplotlib
+  - keras
+  - nb_conda_kernels
+  - jupyterlab
+  - ipykernel
+  - gym-box2d
+prefix: /Users/sylvainlugeon/opt/anaconda3/envs/ann
